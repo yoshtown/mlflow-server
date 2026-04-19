@@ -1,2 +1,2 @@
-mlflow
+mlflow-skinny
 psycopg2-binary
