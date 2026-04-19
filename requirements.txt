@@ -1,3 +1,2 @@
-mlflow-skinny
-flask
+mlflow==2.9.2
 psycopg2-binary
